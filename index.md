@@ -37,6 +37,8 @@ Cependant, cette croissance soutenue masque des disparités au sein du départem
 Enfin, l’attractivité économique du département s’accompagne d’une hausse importante du prix du m² sur l’ensemble du département, principalement sur la côte, où la demande a fortement progressé. Cependant, au cœur de l’agglomération nantaise, la hausse est tout de même palpable, le prix du m² atteint près de 4000 euros, et renforce les inégalités d’accès au logement. La métropole nantaise compte d’ailleurs 54 campements/bidonville (2022). Situé à l’ouest de la ville de Nantes, entre une route et la voie ferrée, le plus grand bidonville de France métropolitaine abritait entre 700 et 1000 habitants jusqu’à son évacuation en 2024.
 
 
-## 2/ Économie de la Mer
+## 2/ Le Complexe Industrialo-Portuaire 
+
+## 3/ Une économie diversifié 
 
 ![](https://i.postimg.cc/pTvj2gzn/export.png) 
