@@ -1,5 +1,5 @@
 ---
-title: "L'économie maritime, image d'un département en pleine croissance."
+title: "L'économie maritime, phare d'un département en pleine croissance"
 order: 0
 in_menu: true
 ---
@@ -24,7 +24,7 @@ Dans ce système, la Loire-Atlantique occupe une position centrale, avec près d
 
 Construction cartographique : 
 La carte représentant l’évolution de la population et du prix de l’immobilier en Loire-Atlantique a pour but de présenter l’évolution démographique du département et de mettre en évidence l’une de ses conséquences : l’augmentation des prix de l’immobilier. 
-Pour ce faire, l’évolution de la population est représentée par des ronds proportionnels à la moyenne annuelle de la variation de la population, en nombre d’habitants, entre 2015 et 2021. (Nb = (Population_2021 - Population_2015)/6 ) Ainsi, entre 2015 et 2021, il y a eu en moyenne 3300 habitants de plus chaque année à Nantes. La carte choroplèthe représente l’évolution du prix du m² entre 2019 et 2023, en pourcentage. Une discrétisation par la méthode des intervalles égaux permet d’obtenir des seuils simples et facilement compréhensibles.
+Pour ce faire, l’évolution de la population est représentée par des ronds proportionnels à la moyenne annuelle de la variation de la population, en nombre d’habitants, entre 2015 et 2021. Nb = (Population2021 - Population2015)/6 .Ainsi, entre 2015 et 2021, il y a eu en moyenne 3300 habitants de plus chaque année à Nantes. La carte choroplèthe représente l’évolution du prix du m² entre 2019 et 2023, en pourcentage. Une discrétisation par la méthode des intervalles égaux permet d’obtenir des seuils simples et facilement compréhensibles.
 
 La Loire-Atlantique est l’un des départements métropolitains les plus dynamiques, il  se démarque particulièrement par sa croissance démographique. Entre 2015 et 2021, la population du département a augmenté en moyenne de 1,1% par an contre une moyenne de 0,3% pour l’ensemble du territoire national. 
 
@@ -37,6 +37,6 @@ Cependant, cette croissance soutenue masque des disparités au sein du départem
 Enfin, l’attractivité économique du département s’accompagne d’une hausse importante du prix du m² sur l’ensemble du département, principalement sur la côte, où la demande a fortement progressé. Cependant, au cœur de l’agglomération nantaise, la hausse est tout de même palpable, le prix du m² atteint près de 4000 euros, et renforce les inégalités d’accès au logement. La métropole nantaise compte d’ailleurs 54 campements/bidonville (2022). Situé à l’ouest de la ville de Nantes, entre une route et la voie ferrée, le plus grand bidonville de France métropolitaine abritait entre 700 et 1000 habitants jusqu’à son évacuation en 2024.
 
 
-## 2/ Économie
+## 2/ Économie de la Mer
 
 ![](https://i.postimg.cc/pTvj2gzn/export.png) 
