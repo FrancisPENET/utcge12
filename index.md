@@ -3,9 +3,9 @@ title: "L'économie maritime, image d'un département en pleine croissance."
 order: 0
 in_menu: true
 ---
-### I. Démographie et structure de la Région
+# I. Démographie et structure de la Région
 
-# a. Situation de la région des pays de la Loire
+### a. Situation de la région des pays de la Loire
 
 ![](https://i.postimg.cc/65RYZVRs/Reseau-de-transport-Densit-de-poulation.png)
 
