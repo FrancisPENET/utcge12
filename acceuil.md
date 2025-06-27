@@ -1,6 +1,6 @@
 ---
 title: "Acceuil"
-order: 2
+order: 0
 in_menu: true
 ---
 Nous avons décidé d'étudier le département de la Loire-Atlantique. 
