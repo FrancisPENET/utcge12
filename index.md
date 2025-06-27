@@ -38,12 +38,17 @@ Enfin, l’attractivité économique du département s’accompagne d’une haus
 
 
 ## 2/ Le complexe industrialo-portuaire 
-![](https://i.postimg.cc/05V6PHzz/stnazaire.png)
 
 ![](https://i.postimg.cc/dVkGY7W6/image.png)
-![](https://i.postimg.cc/d1700WMF/travailleurspng.png)
+
+L’économie liée à la mer est une activité économique majeure du département de la Loire-Atlantique. Avec 28 500 emplois, le complexe industrialo-portuaire de Nantes - St Nazaire est un moteur de l’économie locale et représente 19% des emplois de la zone de St Nazaire. Dans certaines villes comme Indre, le complexe représente jusqu’à 83% des emplois. Celui-ci s’organise en système productif parfaitement inséré dans le territoire. Les activités du port se font sur une superficie de 2700 hectares répartie sur 60 km soit la distance entre Nantes et St Nazaire. La sphère productive représente 17 704 emplois répartis entre la construction maritime et les industries (énergies, raffinages,etc…) . Les autres activités font partie de la sphère péri productive, qui permettent aux industries de fonctionner. Elles sont présentes à la fois dans les activités maritimes et industrielles, cela comprend les transports, la gestion du port, la manutention.
+
+![](https://i.postimg.cc/05V6PHzz/stnazaire.png)
+
+St Nazaire est devenue un cluster qui concentre à la fois les activités maritimes Naval Group et industrielles comme Airbus qui possède deux établissements et des écoles tel que  qui permettent de former des ingénieurs et techniciens supérieurs qui permettent une amélioration constante de la productivité et des performances du CIP qui permettent au complexe de rester un chantier naval de premier rang mondial. Les activités du port de St - Nazaire bénéficient beaucoup à son territoire. En effet, en plus d’être un important fournisseur d’emploi et créateur de richesses, le CIP, par la consommation des salariés sur leur lieu de résidence induit 13000 emplois dans la région, avec 4000 liés aux activités maritimes. Ces emplois induit appartiennent pour la majorité à la sphère de la reproduction sociale notamment la santé qui représentent un quart de ces emplois et l’administration publique (18%).
 
 ## 3/ Une économie diversifié 
 
-![](https://i.postimg.cc/pTvj2gzn/export.png) 
+![](https://i.postimg.cc/pTvj2gzn/export.png)
+
 ![](https://i.postimg.cc/Gh7WQMCY/France-croissance-PIB.png) 
