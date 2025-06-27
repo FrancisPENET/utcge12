@@ -49,6 +49,8 @@ St Nazaire est devenue un cluster qui concentre à la fois les activités mariti
 
 ## 3/ Une économie diversifié 
 
+![](https://i.postimg.cc/Gh7WQMCY/France-croissance-PIB.png) 
+
 ![](https://i.postimg.cc/pTvj2gzn/export.png)
 
-![](https://i.postimg.cc/Gh7WQMCY/France-croissance-PIB.png) 
+![](https://i.postimg.cc/76RHjxv1/Tourisme.png) 
