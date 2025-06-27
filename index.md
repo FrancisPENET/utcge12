@@ -46,3 +46,4 @@ Enfin, l’attractivité économique du département s’accompagne d’une haus
 ## 3/ Une économie diversifié 
 
 ![](https://i.postimg.cc/pTvj2gzn/export.png) 
+![](https://i.postimg.cc/Gh7WQMCY/France-croissance-PIB.png) 
