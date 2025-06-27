@@ -18,7 +18,7 @@ La région des Pays de la Loire se structure autour d’un axe principal de gran
 Dans ce système, la Loire-Atlantique occupe une position centrale, avec près de 1 500 000 habitants, elle regroupe près de 40% des 3 700 000 habitants de la région. Nantes, préfecture de la Loire-Atlantique et capitale régionale, est la  8ᵉ plus grande aire urbaine de France et regroupe près d’un million d’habitants.
 
 
-# b. Loire-Atlantique : un département dynamique et polarisé.
+### b. Loire-Atlantique : un département dynamique et polarisé.
 
 ![](https://i.postimg.cc/FsjwvXTJ/evolution-population-et-prix.png)
 
@@ -40,7 +40,7 @@ Enfin, l’attractivité économique du département s’accompagne d’une haus
 ## 2/ Le complexe industrialo-portuaire 
 ![](https://i.postimg.cc/05V6PHzz/stnazaire.png)
 
-
+![](https://i.postimg.cc/dVkGY7W6/image.png)
 ![](https://i.postimg.cc/d1700WMF/travailleurspng.png)
 
 ## 3/ Une économie diversifié 
