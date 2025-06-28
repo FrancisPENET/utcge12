@@ -115,8 +115,6 @@ Il se structure en deux pôles majeurs.
 
 # Conclusion
 
-Conclusion
-
 Au terme de ce projet réalisé dans le cadre de l'UV GE12, nous avons pu explorer et analyser les dynamiques économiques et démographiques du département de la Loire-Atlantique. Ce travail nous a permis de mettre en pratique les concepts théoriques abordés en cours, tels que les systèmes productifs locaux, les milieux innovateurs, et les politiques de développement local.
 Synthèse des Résultats
 
