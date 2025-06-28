@@ -37,7 +37,7 @@ Cependant, cette croissance soutenue masque des disparités au sein du départem
 Enfin, l’attractivité économique du département s’accompagne d’une hausse importante du prix du m² sur l’ensemble du département, principalement sur la côte, où la demande a fortement progressé. Cependant, au cœur de l’agglomération nantaise, la hausse est tout de même palpable, le prix du m² atteint près de 4000 euros, et renforce les inégalités d’accès au logement. La métropole nantaise compte d’ailleurs 54 campements/bidonville (2022). Situé à l’ouest de la ville de Nantes, entre une route et la voie ferrée, le plus grand bidonville de France métropolitaine abritait entre 700 et 1000 habitants jusqu’à son évacuation en 2024.
 
 
-## 2/ Le complexe industrialo-portuaire 
+# II. Le complexe industrialo-portuaire 
 
 ![](https://i.postimg.cc/dVkGY7W6/image.png)
 
@@ -74,7 +74,7 @@ St Nazaire est devenue un cluster qui concentre à la fois des activités mariti
 
 Le transport maritime est responsable de 3% des émissions mondiales de gaz à effet de serre et 70 % des marchandises qui transitent par ses quais sont issues des énergies fossiles. L’enjeu de la décarbonation des activités est donc très important, l’objectif 2021-2026 de Nantes Saint-Nazaire Port est qu’il devienne le port de référence de la transition énergétique et écologique. Cependant les solutions et l’avenir restent flou, malgré les perspectives liées au e-méthanol avec les entreprises Lhyfe et Elyse et l’hydrogène vert qui ne sont pas encore au point. L’éolien en mer est aussi une piste, le parc éolien offshore de St Nazaire est le premier de France qui alimente 700 000 habitants. Cependant toutes ces solutions sont techniques et pour certaines doivent encore démontrer leur efficacité. Aucun changement structurel et sociétal ne semble être réellement pensé pour répondre à ces enjeux.
 
-## 3/ Une économie diversifié 
+# III. Une économie diversifié 
 
 ![](https://i.postimg.cc/Gh7WQMCY/France-croissance-PIB.png)
 
