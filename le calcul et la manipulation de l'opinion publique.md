@@ -28,4 +28,5 @@ in_menu: true
         <p style="text-align: justify;"> Finalement, le lien le plus frappant est que les techniques de Bernays apparaissent comme la version “analogique” de ce que fait aujourd'hui la raison computationnelle avec la technologie. La lecture de <u>PROPAGANDA</u> est saisissante parce qu’elle représente un manuel conceptuel dont la raison computationnelle est devenue l’outil d’exécution parfait. </p>
 
 Par Nawel Labrach et Barthélemy Penet--Baranger
+
  <img src="https://i.postimg.cc/sDzzx7pP/by-nc-sa.png" /> 
