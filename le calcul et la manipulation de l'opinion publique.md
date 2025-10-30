@@ -12,8 +12,8 @@ in_menu: true
         <h2>Mais quel est le lien entre cette raison computationnelle et l'œuvre de Bernays ?</h2>
         <p style="text-align: justify;"> Le calcul et l’informatique ont permis aux idées de Bernays de passer à une vitesse supérieure. En effet l’automatisation et les puissances de calcul actuelles permettent la collecte de données à une échelle inimaginable à son époque. Ces données une fois traitées par des algorithmes donnent la possibilité à ceux qui les possèdent de comprendre le comportement du consommateur ( dans le cadre des entreprises ) et des citoyens ( pour les politiques ) afin de les manipuler. <br>
         Le lien fondamental est donc le suivant: Bernays applique une forme antérieure à l’informatique de la raison computationnelle au domaine de la manipulation de masse et de la politique. L’opinion publique est alors un “système” pouvant être analysé, programmé et modélisé.</p>
-        <img src="https://i.postimg.cc/vB4j2H5Z/partie-3-photo.png" title="Graphe montrant le volume de désinformation pendant la campagne électorale de 2017. "/>
-<p style="text-align: justify;">Graphe montrant le volume de désinformation pendant la campagne électorale de 2017</p>
+        <img src="https://i.postimg.cc/vB4j2H5Z/partie-3-photo.png"/>
+<p style="color: gray; font-size: small;"> Graphe montrant le volume de désinformation pendant la campagne électorale de 2017. © David Chavalarias, 2022. TOXIC DATA </p>
         <h2> Parallèle en plusieurs points majeurs de la raison computationnelle </h2>
         <ol>
             <li>Décomposition des idées</li>
