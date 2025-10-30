@@ -1,7 +1,7 @@
 ---
 title: "[ARCHIVE] L'économie maritime, phare d'un département en pleine croissance"
 order: 2
-in_menu: true
+in_menu: false
 ---
 # I. Démographie et structure de la Région
 
