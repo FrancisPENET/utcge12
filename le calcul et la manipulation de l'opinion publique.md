@@ -1,6 +1,6 @@
 ---
 title: "Le calcul et la manipulation de l'opinion publique"
-order: 5
+order: 3
 in_menu: true
 ---
 <html lang="fr">
