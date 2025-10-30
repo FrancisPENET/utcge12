@@ -3,7 +3,6 @@ title: "PROPAGANDA, Chapitre 1 et 2"
 order: 1
 in_menu: true
 ---
-<!DOCTYPE html>
 <html lang="fr">
     <head>
         <title></title>
